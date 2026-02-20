@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Churn Prediction & Intervention System
+# 📡 Customer Churn Prediction & Intervention System
 
 A complete end-to-end machine learning project that predicts customer churn for a telecom company, segments customers into behavioral groups, and recommends targeted interventions with ROI analysis.
 
